@@ -12,7 +12,7 @@ A mobile app designed to inspire positivity and community spirit by suggesting s
 ## 📦 Installation
 
 1. Clone this repository:
-``` git clone https://github.com/yourusername/random-acts-of-kindness.git ```
+``` git clone https://github.com/SlimenFellah/Kindness-Acts-Generator.git ```
 
 2. Navigate into the project directory:
 ``` cd random-acts-of-kindness```
@@ -52,5 +52,6 @@ Thank you to all contributors and supporters! 🙌
 💬 Contact
 For questions or feedback, feel free to reach out:
 
-Your Name: fellah.slimene@gmail.com
+Email: fellah.slimene@gmail.com
 GitHub: [slimenFellah]('https://github.com/SlimenFellah')
+LinkedIn: [Slimene Fellah]('https://www.linkedin.com/in/slimene-fellah-25950a224/')
